@@ -40,6 +40,7 @@ function mulai() {
   selesai = false;
   skor = 0;
   papanSkor.textContent = 0;
+  bs.play();
   munculkanTikus();
   
   setTimeout(() => {
